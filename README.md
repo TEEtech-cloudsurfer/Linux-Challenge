@@ -12,6 +12,7 @@ None so far. These are all refresher commands for me. I am not a System Admin so
 ## Day 1 - Get to know your server
 Where do we start:  SSH and log into the server that you created.  COMMAND: SSH user@IPADDRESS 
 Once inside the server, the main agenda is to get comfortable and learn certain commands and what they do.
+### Commands
 - lsb_releaase - shows the what Linux flavor and version that you are in.
 - uname -a - prints the system information
 - uptime - gives you the time of how long your system has been running
@@ -24,3 +25,11 @@ Once inside the server, the main agenda is to get comfortable and learn certain 
 - du -h - will give you an overview of the size of the listed folders
 - ip addr - this is going to give you the overview of your network connections also known as interfaces and host ip's. 
 
+## Day 2 - Basic Navigation
+This is my jam! Honestly this is how I have survived using Linux and is absolutely the foundation to understanding and using the command line intentionally.
+
+### Commands
+- man - will be your bestfriend...use it! executing man along with a command will give you the manual on the command that you want to know more about.
+- pwd - Print working directory. This will let you know where you are currently in the system. it will show your absolute path.
+
+...... will finish later
